@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\khaled\desktop\mpi\game_with_mpi\game_with_mpi\source.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\khaled\desktop\mpi\game_with_mpi\game_with_mpi\source.cpp(114): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  game_with_mpi.vcxproj -> C:\Users\Khaled\Desktop\MPI\game_with_mpi\Debug\game_with_mpi.exe
+  game_with_mpi.vcxproj -> C:\Users\Khaled\Desktop\MPI\game_with_mpi\Debug\game_with_mpi.pdb (Partial PDB)
